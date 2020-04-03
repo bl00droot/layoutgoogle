@@ -1,9 +1,5 @@
 #!/bin/bash
-######################################################################
-############# SCRIPT IMPLEMENTADO POR CHRISTIAN G. CASTRO ############
-######################################################################
-### DON'T REMOVE THE CREDITS BITCH!! #################################
-######################################################################
+
 #### CONVERTENDO CONTATOS DO CRM PARA GOOGLE
 
 #Adicionar no inicio do arquivo o padrão do layout do Google
